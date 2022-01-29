@@ -63,8 +63,6 @@ My name is Caleb J. Gross. I love to program, and I have been programming since 
 
 ![image](https://github-readme-streak-stats.herokuapp.com/?user=LublubXT)
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=LublubXT)
-
 
 ## - WebMJS - 
 My latest and one of my greatest projects that I am working on is a NodeJS CMS, called **WebMJS**, which is a Node JS and Express website CMS.
