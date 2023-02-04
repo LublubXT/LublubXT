@@ -56,15 +56,13 @@ My name is Caleb J. Gross. I love to program, and I have been programming since 
 ![image](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![image](https://img.shields.io/badge/dell%20laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white)
 
-![image](https://activity-graph.herokuapp.com/graph?username=LublubXT&theme=minimal)
-
 ![image](https://github-readme-stats.vercel.app/api?username=LublubXT)
 
 ![image](https://github-readme-streak-stats.herokuapp.com/?user=LublubXT)
 
 
 ## - Cozwix CMS - 
-Free and open source NodeJS, ExpresJS, EJS, and Mongodb CMS. Super simple, fast, and easy to use and develop websites with.
+Free and open source NodeJS, ExpresJS, EJS, and Mongodb CMS. Super simple, fast, and easy to use and develop websites with. Repo [Here](https://github.com/LublubXT/cozwixcms)
 
 ![breif](https://user-images.githubusercontent.com/73581388/216765090-74f9d68f-9672-4d73-89b4-3ee5608b3c10.png)
 
