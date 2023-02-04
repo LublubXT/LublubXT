@@ -22,7 +22,6 @@ My name is Caleb J. Gross. I love to program, and I have been programming since 
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![image](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)
-![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![image](https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white)
 ![image](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
@@ -64,20 +63,10 @@ My name is Caleb J. Gross. I love to program, and I have been programming since 
 ![image](https://github-readme-streak-stats.herokuapp.com/?user=LublubXT)
 
 
-## - WebMJS - 
-My latest and one of my greatest projects that I am working on is a NodeJS CMS, called **WebMJS**, which is a Node JS and Express website CMS.
+## - Cozwix CMS - 
+Free and open source NodeJS, ExpresJS, EJS, and Mongodb CMS. Super simple, fast, and easy to use and develop websites with.
 
-
-The reason I am making this CMS with NodeJS and Express, is I wanted to make something that looks more modern than Wordpress, and is simpler to use. I w,ant to have two different releases, one for static websites, and another for NodeJS server websites. The one I am currently working on is the NodeJS server one, so it will only work on NodeJS servers like **Heroku**.
-
-I have been building websites with NodeJS and Express, for a while now, and it is simple, and easier to use than PHP is. One of the things I didn't like about making themes with wordpress, is its complexity, and having to use PHP, which I am not a fan of.
-
-I hope to have the first version out by summer of this year. It will take a lot of work, but in the end it will be very easy to use and to setup. All you need to do is import the files into your project, and add some javascript to your pug or ejs files.
-
-For more info about it go to the WebMJS repo, and more is listed about it. Also if you have any questions about the CMS, start a discussion on the repo.
-
-![screen shot of admin panle](https://github.com/LublubXT/WebMJS/blob/main/Screenshot%20from%202022-01-28%2009-26-11.png)
-
+![breif](https://user-images.githubusercontent.com/73581388/216765090-74f9d68f-9672-4d73-89b4-3ee5608b3c10.png)
 
 
 ## - Freelay -
